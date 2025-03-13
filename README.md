@@ -37,7 +37,7 @@ I am a passionate software developer with experience in full-stack web developme
 ✅ **Build Scalable Applications** – Enhancing my system design and architecture knowledge.  
 
 ### 📫 Connect With Me  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: [Your LinkedIn Profile](#https://www.linkedin.com/in/zameer-ahmed-khan-014523225/)  
 - GitHub: [github.com/ZameerAhamed](#)  
 - Portfolio: [Your Portfolio Link](#)  
 - Email: [Your Email](#)  
