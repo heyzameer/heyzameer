@@ -37,8 +37,8 @@ I am a passionate software developer with experience in full-stack web developme
 ✅ **Build Scalable Applications** – Enhancing my system design and architecture knowledge.  
 
 ### 📫 Connect With Me  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zameer-ahmed-khan-014523225/)  
-- Email: [Your Email](khanzameer5890@gmail.com)  
+- **LinkedIn:** [Zameer Ahamed](https://www.linkedin.com/in/zameer-ahmed-khan-014523225/)  
+- **Email:** [khanzameer5890@gmail.com](mailto:khanzameer5890@gmail.com)  
 
 💡 _"Be impatient with action, and patient with results."_  
 
