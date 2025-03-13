@@ -12,7 +12,6 @@ I am a passionate software developer with experience in full-stack web developme
 - 🌍 **Frontend & Backend Development** – Building interactive UIs and scalable backend solutions.  
 - 📱 **React Native** – Developing mobile applications, including an AI-integrated **Workout Planner App**.  
 - 🔐 **Web Security & Authentication** – Recently presented a **tech seminar on JWT authentication**.  
-- 🏗 **Projects & Learning** – Enhancing my portfolio with well-structured, high-performance websites.  
 
 ### 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
@@ -32,7 +31,7 @@ I am a passionate software developer with experience in full-stack web developme
 - Currently part of **BroCamp**, refining my frontend and backend skills through practical projects.  
 
 ### 📌 Goals & Aspirations  
-✅ **Remote Software Developer** – Aiming for a role that allows me to build impactful products from anywhere.  
+✅ **Software Developer** – Aiming for a role that allows me to build impactful products from anywhere.  
 ✅ **Master React & Node.js** – Deepening my expertise in frontend and backend development.  
 ✅ **Build Scalable Applications** – Enhancing my system design and architecture knowledge.  
 
