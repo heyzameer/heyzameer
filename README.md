@@ -40,7 +40,6 @@ I am a passionate software developer with experience in full-stack web developme
 - **Email:** [khanzameer5890@gmail.com](mailto:khanzameer5890@gmail.com)
 
  ## 📄 My Resume
-[View My Resume](## 📄 My Resume
 [View My Resume]([https://github.com/your-username/your-repo/blob/main/resume.pdf](https://github.com/heyzameer/heyzameer/blob/main/Resume_ZameerY.pdf))
 
 
