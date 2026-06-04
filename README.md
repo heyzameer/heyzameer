@@ -8,11 +8,14 @@ I build scalable web applications using JavaScript, TypeScript, React, Next.js, 
 
 What excites me most is solving real business problems. I enjoy working directly with users, understanding workflows, designing systems, and turning ideas into products that create measurable impact.
 
-## 💼 What I'm Building
+## 💼 Featured Projects
 
 ### 🚗 Orbix
 
 AI-powered SaaS platform for car dealerships.
+
+🔗 **Product Page:** https://orbixproductpage.nineorbite.in/
+🔗 **Live Platform:** https://orbix.nineorbite.in/
 
 * Multi-tenant architecture
 * WhatsApp sales automation
@@ -24,6 +27,9 @@ AI-powered SaaS platform for car dealerships.
 
 Travel & hospitality booking platform.
 
+🔗 **Customer Portal:** https://www.letsgoto.in/
+🔗 **Partner Portal:** https://partner.letsgoto.in/
+
 * Customer, Partner & Admin portals
 * AI-powered KYC verification
 * Real-time booking management
@@ -33,6 +39,8 @@ Travel & hospitality booking platform.
 ### 🚕 LetzGo
 
 Real-time ride-hailing platform.
+
+🔗 **Live Demo:** https://letzgo.onrender.com/
 
 * Live ride matching
 * Google Maps integration
