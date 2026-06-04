@@ -1,47 +1,76 @@
+# 👋 Hi, I'm Zameer Ahamed Khan
 
----
+🚀 Software Engineer | MERN Stack | TypeScript | System Design
 
-# 👋 Hi, I'm Zameer Ahamed!  
+I'm a Computer Science graduate and Brototype-certified MERN Stack Developer from Karnataka, India.
 
-🚀 **Aspiring Software Developer** | MERN Stack | JavaScript | React | Java  
+I build scalable web applications using JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Redis, and Docker.
 
-### 🌟 About Me  
-I am a passionate software developer with experience in full-stack web development, specializing in JavaScript, React, and backend development using Node.js and Express. I love solving problems, building scalable applications, and continuously learning new technologies.  
+What excites me most is solving real business problems. I enjoy working directly with users, understanding workflows, designing systems, and turning ideas into products that create measurable impact.
 
-### 🔥 What I'm Working On  
-- 🌍 **Frontend & Backend Development** – Building interactive UIs and scalable backend solutions.  
-- 📱 **React Native** – Developing mobile applications, including an AI-integrated **Workout Planner App**.  
-- 🔐 **Web Security & Authentication** – Recently presented a **tech seminar on JWT authentication**.  
+## 💼 What I'm Building
 
-### 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Mobile:** React Native  
-- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, Docker  
-- **Other:** JWT Authentication, API Development, Chatbots (Botpress), System Design  
+### 🚗 Orbix
 
-### 💻 Projects  
-- **Real-time Chat Application** – MERN stack app with JWT authentication and seamless messaging.  
-- **Event Management System** – Full-stack web app for managing events, RSVPs, and notifications.  
-- **AI Chatbot** – NLP-powered chatbot using Botpress, answering queries from a knowledge base.  
-- **Portfolio Website** – Responsive personal website with a Lighthouse performance score **above 90**.  
+AI-powered SaaS platform for car dealerships.
 
-### 🚀 Hackathon & Learning Experience  
-- Participated in a **Web Development Hackathon**, working on **Virtual Classroom & Event Management Systems**.  
-- Currently part of **BroCamp**, refining my frontend and backend skills through practical projects.  
+* Multi-tenant architecture
+* WhatsApp sales automation
+* Real-time inventory management
+* Event-driven microservices
+* Elasticsearch-powered search
 
-### 📌 Goals & Aspirations  
-✅ **Software Developer** – Aiming for a role that allows me to build impactful products from anywhere.  
-✅ **Master React & Node.js** – Deepening my expertise in frontend and backend development.  
-✅ **Build Scalable Applications** – Enhancing my system design and architecture knowledge.  
+### 🌿 NatureStay
 
-### 📫 Connect With Me  
-- **LinkedIn:** [Zameer Ahamed](https://www.linkedin.com/in/zameer-ahmed-khan-014523225/)  
-- **Email:** [khanzameer5890@gmail.com](mailto:khanzameer5890@gmail.com)
+Travel & hospitality booking platform.
 
- ## 📄 My Resume
-[View My Resume](https://drive.google.com/file/d/1pFbT72eC2BrqQVY5XOQdpo5oEu4IZP_O/view?usp=sharing)
+* Customer, Partner & Admin portals
+* AI-powered KYC verification
+* Real-time booking management
+* Payment integrations
+* AWS deployment & CI/CD
 
-💡 _"Be impatient with action, and patient with results."_  
+### 🚕 LetzGo
 
----
+Real-time ride-hailing platform.
+
+* Live ride matching
+* Google Maps integration
+* Role-based access control
+* Real-time updates using Socket.IO
+
+## 🛠 Tech Stack
+
+**Frontend**
+React.js • Next.js • Redux Toolkit • Tailwind CSS
+
+**Backend**
+Node.js • Express.js • TypeScript • GraphQL • REST APIs
+
+**Databases**
+MongoDB • PostgreSQL • Redis • Elasticsearch
+
+**Architecture**
+Microservices • Event-Driven Systems • Clean Architecture • System Design
+
+**DevOps & Cloud**
+Docker • AWS • GitHub Actions • Nginx
+
+## 🌱 Currently Learning
+
+* Distributed Systems
+* Advanced System Design
+* Cloud Architecture
+* Scalable SaaS Development
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/heyzameer
+* LinkedIn: https://www.linkedin.com/in/zameer-ahmed-khan-014523225/
+* Email: [khanzameer5890@gmail.com](mailto:khanzameer5890@gmail.com)
+
+## 📄 Resume
+
+https://github.com/heyzameer/heyzameer/blob/main/RESUME_ZAMEER_AHAMED_S.pdf
+
+> "Build products. Solve problems. Keep learning."
